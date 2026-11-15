@@ -68,11 +68,9 @@ Jei ši knyga jums naudinga, pažymėkite šią repozitoriją žvaigždute (★)
 
 Laboratorijos nuorodos:
 - Svetainė: <https://aiml.lt>
-- Aprašas mašinoms skaitomu formatu: <https://aiml.lt/llms.txt>
 - Fakultetas: <https://mif.vu.lt>
 - GitHub: <https://github.com/VU-AIML>
 - Hugging Face: <https://huggingface.co/AIML-VU>
-- Landscape Explorer (mokymosi įrankis): <https://landscape-explorer.aiml.lt/>
 - X: <https://twitter.com/AIML_VU>
 - Bluesky: <https://bsky.app/profile/aiml-vu.bsky.social>
 
