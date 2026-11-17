@@ -14,8 +14,8 @@ norint sumažinti nuostolių funkciją;
 (v) gebėjimo automatiškai skaičiuoti išvestines,
 kad galėtumėte pamiršti didelę dalį
 ką tik išmoktos matematinės analizės;
-(vi) pagrindinių tikimybių teorijos įgūdžių,
-mūsų pagrindinės kalbos samprotauti esant neapibrėžtumui;
+(vi) gebėjimo laisvai naudotis tikimybių teorija –
+pagrindine kalba, kuria samprotaujame neapibrėžtumo sąlygomis;
 ir (vii) gebėjimo rasti atsakymus
 oficialioje dokumentacijoje, kai užstringate.
 

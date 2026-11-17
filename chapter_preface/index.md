@@ -1,7 +1,7 @@
 # Pratarmė
 
-Dar prieš keletą metų gilaus mokymosi mokslininkų legionų,
-kuriančių išmaniuosius produktus ir paslaugas didžiosiose bendrovėse ir naujai įsteigtose įmonėse (angl. *startups*), nebuvo.
+Dar prieš keletą metų nebuvo gilaus mokymosi mokslininkų legionų,
+kuriančių išmaniuosius produktus ir paslaugas didžiosiose bendrovėse ir naujai įsteigtose įmonėse (angl. *startups*).
 Kai mes įžengėme į šią sritį, mašininis mokymasis
 dienraščių antraštėse dar nefigūravo.
 Mūsų tėvai nenutuokė, kas yra mašininis mokymasis,
@@ -20,8 +20,8 @@ pirmtakai –
 paprastai buvo laikomi pasenusiais.
 
 
-Tačiau vos per keletą metų gilusis mokymasis pasauliui buvo netikėtas,
-paskatinęs sparčią pažangą tokiose skirtingose srityse
+Tačiau per vos kelerius metus gilusis mokymasis užklupo pasaulį netikėtai
+ir paskatino sparčią pažangą tokiose skirtingose srityse
 kaip kompiuterinė rega, natūraliosios kalbos apdorojimas,
 automatinis šnekos atpažinimas, skatinamasis mokymasis
 ir biomedicinos informatika.
@@ -34,7 +34,7 @@ dabar galime kurti automobilius, kurie vairuoja patys
 savarankiškiau nei bet kada anksčiau
 (nors ne tokie savarankiški, kaip kai kurios bendrovės norėtų jus įtikinti),
 dialogo sistemas, kurios derina kodą uždavinėdamos patikslinančius klausimus,
-ir programinius agentus, įveikiančius geriausius pasaulio žmones stalo žaidimuose, tokiuose kaip „Go" – tokį žygdarbį dar neseniai laikėme esant dešimtmečių atstumu.
+ir programinius agentus, įveikiančius geriausius pasaulio žmones stalo žaidimuose, tokiuose kaip „Go" – dar neseniai atrodė, kad tai įvyks tik po kelių dešimtmečių.
 Šios priemonės jau daro vis platesnę įtaką pramonei ir visuomenei,
 keičia filmų kūrimo būdus, ligų diagnostiką
 ir vis labiau įsitvirtina fundamentiniuose moksluose – nuo astrofizikos iki klimato modeliavimo, orų prognozavimo ir biomedicinos.
@@ -43,8 +43,8 @@ ir vis labiau įsitvirtina fundamentiniuose moksluose – nuo astrofizikos iki k
 
 ## Apie šią knygą
 
-Šia knyga siekiame, kad gilusis mokymasis taptų prieinamas,
-mokydami jus *sąvokų*, *konteksto* ir *kodo*.
+Šia knyga norime padaryti gilųjį mokymąsi prieinamą kiekvienam
+ir supažindinti jus su *sąvokomis*, *kontekstu* ir *kodu*.
 
 ### Viena terpė, jungianti kodą, matematiką ir HTML
 

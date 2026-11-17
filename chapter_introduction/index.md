@@ -10,7 +10,7 @@ Tarkime, kad norėjome parašyti programą
 elektroninės prekybos platformai valdyti.
 Kelias valandas susikūprinę prie lentos
 ir svarstydami uždavinį,
-galime sutarti dėl bendrų veikiančio sprendimo brūkšnių, pavyzdžiui:
+galime sutarti, kaip apytiksliai turėtų atrodyti veikiantis sprendimas, pavyzdžiui:
 (i) naudotojai su programa bendrauja per sąsają,
 veikiančią interneto naršyklėje ar mobiliojoje programėlėje;
 (ii) mūsų programa bendrauja su komercinio lygio duomenų bazių varikliu,
@@ -60,7 +60,7 @@ bet šįkart sprendžiate
 vieną iš šių uždavinių:
 
 * Parašyti programą, kuri prognozuoja rytojaus orus pagal geografinę informaciją, palydovų vaizdus ir pastarojo laikotarpio orų duomenis.
-* Parašyti programą, kuri priima laisvos formos tekstu išreikštą faktinį klausimą ir jį teisingai atsako.
+* Parašyti programą, kuri priima laisvos formos tekstu išreikštą faktinį klausimą ir į jį teisingai atsako.
 * Parašyti programą, kuri pagal vaizdą atpažįsta kiekvieną jame pavaizduotą žmogų ir apveda kiekvieną kontūru.
 * Parašyti programą, kuri naudotojams pateikia produktus, kurie jiems greičiausiai patiks, bet kurių jie tikriausiai nesutiktų įprastai naršydami.
 
@@ -90,7 +90,7 @@ Mašininio mokymosi algoritmui kaupiant vis daugiau patirties,
 dažniausiai stebėjimo duomenų
 ar sąveikos su aplinka forma,
 jo našumas gerėja.
-Palyginkite tai su mūsų deterministine elektroninės prekybos platforma,
+Visai kitaip veikia mūsų deterministinė elektroninės prekybos platforma,
 kuri laikosi tos pačios verslo logikos,
 kad ir kiek patirties sukauptų,
 kol patys kūrėjai išmoksta ir nusprendžia,

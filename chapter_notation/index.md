@@ -1,28 +1,28 @@
 # Žymėjimai
 :label:`chap_notation`
 
-Visoje knygoje laikomės
-toliau pateiktų žymėjimo sutarčių.
-Atkreipkite dėmesį, kad kai kurie šių simbolių yra vietos žymekliai,
+Visoje knygoje vartojame
+toliau pateiktus žymėjimus.
+Atkreipkite dėmesį, kad kai kurie šių simbolių yra bendrieji žymenys,
 o kiti žymi konkrečius objektus.
-Bendra taisyklė: neapibrėžtasis artikelis „a" (angl.) dažnai nurodo,
-kad simbolis yra vietos žymeklis
+Bendra taisyklė: žodžiai „bet koks“ aprašyme rodo,
+kad simbolis yra bendrasis žymuo
 ir kad panašiai užrašyti simboliai
 gali žymėti kitus to paties tipo objektus.
-Pavyzdžiui, „$x$: skaliaras" reiškia,
-kad mažosios raidės paprastai
-žymi skaliarines reikšmes,
-o „$\mathbb{Z}$: sveikųjų skaičių aibė"
-reiškia būtent simbolį $\mathbb{Z}$.
+Pavyzdžiui, „$x$: bet koks skaliaras“ reiškia,
+kad mažosiomis raidėmis paprastai
+žymimos skaliarinės reikšmės,
+o „$\mathbb{Z}$: sveikųjų skaičių aibė“
+visada žymi būtent šią aibę.
 
 
 
 ## Skaitiniai objektai
 
-* $x$: skaliaras
-* $\mathbf{x}$: vektorius
-* $\mathbf{X}$: matrica
-* $\mathsf{X}$: bendrasis tenzorius
+* $x$: bet koks skaliaras
+* $\mathbf{x}$: bet koks vektorius
+* $\mathbf{X}$: bet kokia matrica
+* $\mathsf{X}$: bet koks tenzorius
 * $\mathbf{I}$: vienetinė matrica (tam tikro duoto dydžio), t. y. kvadratinė matrica, kurios visi įstrižainės elementai lygūs $1$, o visi kiti – $0$
 * $x_i$, $[\mathbf{x}]_i$: vektoriaus $\mathbf{x}$ $i$-asis elementas
 * $x_{ij}$, $x_{i,j}$,$[\mathbf{X}]_{ij}$, $[\mathbf{X}]_{i,j}$: matricos $\mathbf{X}$ elementas $i$-ojoje eilutėje ir $j$-ajame stulpelyje.
@@ -32,23 +32,23 @@ reiškia būtent simbolį $\mathbb{Z}$.
 ## Aibių teorija
 
 
-* $\mathcal{X}$: aibė
+* $\mathcal{X}$: bet kokia aibė
 * $\mathbb{Z}$: sveikųjų skaičių aibė
-* $\mathbb{Z}^+$: teigiamųjų sveikųjų skaičių aibė
+* $\mathbb{Z}^+$: natūraliųjų (teigiamųjų sveikųjų) skaičių aibė
 * $\mathbb{R}$: realiųjų skaičių aibė
 * $\mathbb{R}^n$: $n$-mačių realiųjų skaičių vektorių aibė
 * $\mathbb{R}^{a\times b}$: realiųjų skaičių matricų, turinčių $a$ eilučių ir $b$ stulpelių, aibė
 * $|\mathcal{X}|$: aibės $\mathcal{X}$ galia (elementų skaičius)
 * $\mathcal{A}\cup\mathcal{B}$: aibių $\mathcal{A}$ ir $\mathcal{B}$ sąjunga
 * $\mathcal{A}\cap\mathcal{B}$: aibių $\mathcal{A}$ ir $\mathcal{B}$ sankirta
-* $\mathcal{A}\setminus\mathcal{B}$: aibių $\mathcal{A}$ ir $\mathcal{B}$ skirtinys, t. y. aibė, kurią sudaro tik tie aibės $\mathcal{A}$ elementai, kurie nepriklauso aibei $\mathcal{B}$
+* $\mathcal{A}\setminus\mathcal{B}$: aibių $\mathcal{A}$ ir $\mathcal{B}$ skirtumas, t. y. aibė, kurią sudaro tik tie aibės $\mathcal{A}$ elementai, kurie nepriklauso aibei $\mathcal{B}$
 
 
 
 ## Funkcijos ir operatoriai
 
 
-* $f(\cdot)$: funkcija
+* $f(\cdot)$: bet kokia funkcija
 * $\log(\cdot)$: natūrinis logaritmas (pagrindas $e$)
 * $\log_2(\cdot)$: logaritmas, kurio pagrindas $2$
 * $\exp(\cdot)$: eksponentinė funkcija
@@ -63,7 +63,7 @@ reiškia būtent simbolį $\mathbb{Z}$.
 * $\langle \mathbf{x}, \mathbf{y} \rangle$: vektorių $\mathbf{x}$ ir $\mathbf{y}$ skaliarinė sandauga
 * $\sum$: elementų rinkinio suma
 * $\prod$: elementų rinkinio sandauga
-* $\stackrel{\textrm{def}}{=}$: lygybė, teigiama kaip kairėje pusėje esančio simbolio apibrėžtis
+* $\stackrel{\textrm{def}}{=}$: lygybė, apibrėžianti kairėje pusėje esantį simbolį
 
 
 
@@ -79,10 +79,10 @@ reiškia būtent simbolį $\mathbb{Z}$.
 
 ## Tikimybių teorija ir informacijos teorija
 
-* $X$: atsitiktinis dydis
-* $P$: tikimybių skirstinys
+* $X$: bet koks atsitiktinis dydis
+* $P$: bet koks tikimybių skirstinys
 * $X \sim P$: atsitiktinis dydis $X$ turi skirstinį $P$
-* $P(X=x)$: tikimybė, priskiriama įvykiui, kai atsitiktinis dydis $X$ įgyja reikšmę $x$
+* $P(X=x)$: tikimybė, kad atsitiktinis dydis $X$ įgyja reikšmę $x$
 * $P(X \mid Y)$: $X$ sąlyginis tikimybių skirstinys, kai duotas $Y$
 * $p(\cdot)$: skirstiniui $P$ priklausanti tikimybės tankio funkcija
 * ${E}[X]$: atsitiktinio dydžio $X$ vidurkis (matematinė viltis)
